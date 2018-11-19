@@ -1,5 +1,9 @@
 # Carta Investor Fellowship Take Home
 
+If you're seeing this but haven't yet applied to our fellowship, check out these postings:
+- [San Francisco Fellowship](https://jobs.lever.co/carta/01def30d-3ffa-4be8-8c02-48615f8937ee)
+- [Seattle Fellowship](https://jobs.lever.co/carta/50511949-7cc3-4d93-971f-2c7a6ccf8cf9)
+
 There are 2 different challenges for you to choose from:
 
 - [The SOI is a frontend challenge.](soi.md)
