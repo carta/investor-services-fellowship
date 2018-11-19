@@ -2,8 +2,8 @@
 
 There are 2 different challenges for you to choose from:
 
-The SOI is a frontend challenge.
-The Portfolio API is a backend challenge.
+The SOI is a frontend challenge. [soi](soi.md)
+The Portfolio API is a backend challenge. [portfolio-api](portfolio-api.md)
 
 Please complete 1 challenge, and put your results in a public github repo and send that over to our team.
 
