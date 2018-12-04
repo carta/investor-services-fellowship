@@ -6,7 +6,7 @@ The Schedule of Investments is the definitive list of all investments made by a 
 
 A simplified excel version looks like this:
 
-![image](https://user-images.githubusercontent.com/7346422/48731786-e07ec580-ec0b-11e8-8c87-e7e26ee9fdf1.png)
+![image](https://user-images.githubusercontent.com/7346422/49432108-cabce480-f763-11e8-88e2-5bae0667d4ac.png)
 
 Create a frontend using the framework of your choice (React, Angular, JQuery, etc) that displays this data in a table form.
 
