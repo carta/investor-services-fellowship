@@ -13,6 +13,6 @@ Please complete 1 of the 2 available challenges. Put your code in a public githu
 
 While we think we've scoped our challenges to a reasonable level of complexity for someone to complete in a few hours, feel free to cut down the scope if it helps you focus on quality. If anything seems wrong or confusing, let us know.
 
-Please do not enlist outside help to build these projects, but please use resources/code snippets/examples to help you.
+Please do not enlist outside help to build these projects, but please use resources/code snippets/examples to help you. Make sure to reach out with any clarifying questions about the directions.
 
 Good luck!
