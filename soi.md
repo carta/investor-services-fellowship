@@ -12,7 +12,7 @@ Create a frontend using the framework of your choice (React, Angular, JQuery, et
 
 Include the following features:
 1. Make an API call to this URL for the data: https://gist.githubusercontent.com/cranium/d8b83184bf0750f2c834760b7c9203dc/raw/a73a70716951f77b90e84b8848ff1fee46938dd1/soi.json
-2. Include a date picker to choose a date from which date to pull data (append ?date=YYYY-MM-DD to the URL to simulate pulling data for a different day). If a new date is selected the table should reload.
+2. Include a date picker to choose a date from which date to pull data (append ?date=YYYY-MM-DD to the API URL to simulate pulling data for a different day). If a new date is selected the table should reload.
 3. Ability to expand/collapse the assets underneath an investment.
 
 Bonus:
